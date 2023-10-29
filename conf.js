@@ -97,5 +97,8 @@ jsproxy_config({
     'http://haha.com/': {
       content: 'Hello World'
     },
+    'info': {
+      content: 'This was made by EtherDream on Github, and enhanced and customised by Niko.'
+    },
   }
 })
