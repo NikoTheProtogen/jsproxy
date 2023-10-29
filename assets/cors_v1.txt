@@ -1,5 +1,5 @@
-# HTTP 返回头存在 access-control-allow-origin: * 的站点，不走代理直接连接
-# 收集了部分，实验中...
+# HTTP Back to existaccess-control-allow-origin: * Site, do not take the agent to connect directly
+# Collected part, experimental in the experiment...
 
 # google
 ssl.google-analytics.com
