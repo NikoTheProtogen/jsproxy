@@ -18,12 +18,11 @@ jsproxy_config({
         [location.host]: 1,
       }
     },
-    'demo-hk': {
-      label: 'Demo - Hongkong',
+    'geon-fr': {
+      label: 'Geonode - France',
       lines: {
         // Host: Weight
-        'node-aliyun-hk-1.etherdream.com:8443': 1,
-        'node-aliyun-hk-2.etherdream.com:8443': 2,
+        '176.31.182.185:9050': 1,
       }
     },
     'demo-sg': {
