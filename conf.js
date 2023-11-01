@@ -90,7 +90,9 @@ jsproxy_config({
     'https://www.pornhub.com/': {
       redir: 'https://youtu.be/R44L-EovL88'
     },
-
+    'https://e621.net/': {
+      redir: 'https://youtu.be/R44L-EovL88'
+    },
     'http://haha.com/': {
       content: 'Hello World'
     },
